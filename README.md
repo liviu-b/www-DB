@@ -1,1 +1,1 @@
-# www-DB
+# website project + mySQL DB
